@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo pdopwodpoapwod
 # Get current timestamp for commit message
 timestamp=$(date '+%Y-%m-%d %H:%M:%S')
 
